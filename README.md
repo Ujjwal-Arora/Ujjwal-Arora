@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ujjwal-Arora
 - 👀 I’m interested in iOS dev roles
-- 🌱 I’m currently learning Swift,SwiftUI,UIKit,Firebase,Git...
+- 🌱 I’m currently learning Swift,Objective-C,SwiftUI,UIKit,Firebase,Git...
 - 📫 Feel free to contact me at ukarora9@gmail.com or 7823078780
 
 <!---
